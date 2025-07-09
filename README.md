@@ -1,41 +1,64 @@
-# 👋 Hi, I'm Gunarajan
+# 👋 Hello! I'm Gunarajan
 
-🎓 EEE Student @ KIT | 💻 Software & Hardware Explorer | 🤖 IoT & ML Enthusiast
-
-I'm an aspiring software engineer currently pursuing my B.E. in Electrical and Electronics Engineering at **Kalaignar Karunanidhi Institute of Technology**, Tamil Nadu.
-
-I enjoy building projects that combine **software with electronics** — whether it's a smart robot, a secure IoT device, or a machine learning model in Python.
+🎓 B.E. Electrical & Electronics Engineering | KIT – Tamil Nadu  
+💻 Aspiring Software Developer | IoT • Embedded Systems • Machine Learning
 
 ---
 
-## 🚀 Skills
+## 🧑‍💻 About Me
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I am a passionate and curious engineering student who enjoys building smart systems that bridge the gap between software and hardware. I’m exploring real-world solutions using technologies like **Python**, **Java**, **Machine Learning**, and **IoT**.
+
+I believe in continuous learning, creative problem-solving, and collaborative project-building. Currently enhancing my skills through internships, competitions, and hands-on projects.
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gunarajan18&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunarajan18&layout=compact&theme=tokyonight" width="48%">
-</p>
+- **Languages:** Python, C, C++, Java, HTML, CSS  
+- **Tools & Tech:** Git, Linux, Arduino, Jupyter Notebook  
+- **Domains:** IoT, Machine Learning, Control Systems, Robotics  
+- **Soft Skills:** Leadership, Writing, Time Management
 
 ---
 
-## 📫 Let's Connect
+## 📂 Featured Projects
 
-- 🔗 [LinkedIn](https://shorturl.at/QQdMp)
+### 🔐 **AES-Based Secure Wireless Communication**
+> IoT-focused machine-to-machine communication using AES 128-bit encryption  
+> [GitHub Project](#) (Private or pending link)
+
+### 🤖 **Logistics CoBot – e-Yantra Robotics Challenge**
+> Built a warehouse automation robot — cleared 3 rounds, Top 10 nationally
+
+### 🎵 [**Music Recommendation System (KNN)**](https://github.com/Gunarajan18/PROJECT-SSUGG)
+> Suggests songs based on audio features using K-Nearest Neighbors algorithm
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering**  
+Electrical & Electronics Engineering  
+Kalaignar Karunanidhi Institute of Technology, Coimbatore  
+_2022 – 2026 | CGPA: 8.41_
+
+---
+
+## 🏆 Certifications
+
+- Python, IoT, Front-End – *Infosys Springboard*  
+- Sensor Circuit Design – *Coursera*
+
+---
+
+## 🔗 Connect with Me
+
+- 📧 gunarajan2005@gmail.com  
+- 🔗 [LinkedIn](https://shorturl.at/QQdMp)  
 - 💻 [GitHub](https://github.com/Gunarajan18)
-- 📧 gunarajan2005@gmail.com
 
 ---
 
-> _“Code. Learn. Build. Repeat.”_
+> _"Code. Learn. Build. Repeat."_  
+> Let’s connect and create something impactful.
